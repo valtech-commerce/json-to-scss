@@ -1,12 +1,12 @@
 {
-  "name": "@absolunet/json-to-scss",
+  "name": "@valtech-commerce/json-to-scss",
   "version": "1.0.0",
   "description": "Convert a JSON to a SCSS map",
   "definition": "",
-  "homepage": "https://github.com/absolunet/node-json-to-scss",
+  "homepage": "https://github.com/valtech-commerce/json-to-scss",
   "author": {
-    "name": "Absolunet",
-    "url": "https://absolunet.com"
+    "name": "Valtech Canada inc.",
+    "url": "https://www.valtech.ca/"
   },
   "keywords": [
     "json",
@@ -15,22 +15,16 @@
   ],
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/absolunet/node-json-to-scss.git",
+    "url": "git://github.com/valtech-commerce/json-to-scss.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/absolunet/node-json-to-scss/issues"
+    "url": "https://github.com/valtech-commerce/json-to-scss/issues"
   },
   "engines": {
-    "node": ">= 11.0.0"
+    "node": ">= 16"
   },
   "main": "index.js",
-  "scripts": {
-    "test": "ava"
-  },
-  "devDependencies": {
-    "@absolunet/tester": "2.3.1"
-  },
   "dependencies": {
     "lodash.foreach": "^4.5.0",
     "lodash.mapkeys": "^4.6.0"
