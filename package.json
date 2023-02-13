@@ -1,6 +1,6 @@
 {
   "name": "@valtech-commerce/json-to-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a JSON to a SCSS map",
   "definition": "",
   "homepage": "https://github.com/valtech-commerce/json-to-scss",

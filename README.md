@@ -1,7 +1,8 @@
 # @valtech-commerce/json-to-scss
 
 [![npm][npm-badge]][npm-url]
-[![npms][npms-badge]][npms-url]
+[![npms.io: Score][npmsio-badge]][npmsio-url]
+[![libraries.io: SourceRank][librariesio-badge]][librariesio-url]
 [![License: MIT][license-badge]][license-url]
 
 > Convert a JSON to a SCSS map
@@ -85,11 +86,12 @@ Forked from [razwan/json-to-sass-map](https://github.com/razwan/json-to-sass-map
 
 MIT © [Valtech Canada inc.](https://www.valtech.ca/)
 
-
-[npm-badge]:     https://img.shields.io/npm/v/@valtech-commerce/json-to-scss?style=flat-square
-[npms-badge]:    https://badges.npms.io/%40valtech-commerce%json-to-scss.svg?style=flat-square
+[npm-badge]: https://img.shields.io/npm/v/@valtech-commerce/json-to-scss?style=flat-square
+[npmsio-badge]: https://img.shields.io/npms-io/final-score/@valtech-commerce/json-to-scss?style=flat-square
+[librariesio-badge]: https://img.shields.io/librariesio/sourcerank/npm/@valtech-commerce/json-to-scss?style=flat-square
 [license-badge]: https://img.shields.io/badge/license-MIT-green?style=flat-square
 
-[npm-url]:     https://www.npmjs.com/package/@valtech-commerce/json-to-scss
-[npms-url]:    https://npms.io/search?q=%40valtech-commerce%json-to-scss
+[npm-url]: https://www.npmjs.com/package/@valtech-commerce/json-to-scss
+[npmsio-url]: https://npms.io/search?q=%40valtech-commerce%2Fjson-to-scss
+[librariesio-url]: https://libraries.io/npm/@valtech-commerce%2Fjson-to-scss
 [license-url]: https://opensource.org/licenses/MIT
